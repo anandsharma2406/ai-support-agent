@@ -1,0 +1,7 @@
+[
+  { "id": 1, "email": "How do I reset my password?" },
+  { "id": 2, "email": "I was charged twice for my subscription!" },
+  { "id": 3, "email": "Export to PDF crashes the app." },
+  { "id": 4, "email": "Can you add dark mode?" },
+  { "id": 5, "email": "API returns 504 errors intermittently." }
+]
